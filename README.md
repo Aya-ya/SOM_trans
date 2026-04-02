@@ -1,7 +1,8 @@
 # Regional-atmospheric-pattern-shifts-associated-with-weather-whiplash-events-
 Code examples related to the article "Regional atmospheric pattern shifts associated with weather whiplash events in the Upper Yangtze River Basin"
 
-The SOM analysis in this study is implemented using the somoclu library. Python Version: 3.10.19. Somoclu Version: 1.7.6.   
+The SOM analysis in this study is implemented using the somoclu library.   
+Python Version: 3.10.19. Somoclu Version: 1.7.6.   
 For detailed installation guides and usage instructions, please refer to the Official Somoclu Documentation (https://somoclu.readthedocs.io/en/stable/).  
 
 Below is a brief overview of the core scripts and their functionalities.  
