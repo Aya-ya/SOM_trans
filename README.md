@@ -9,7 +9,7 @@ Below is a brief overview of the core scripts and their functionalities.
 0_data_preprocessing: A sample for data detrending and standardization (anomaly calculation).  
 1_SOM_train: SOM model construction, training, and output generation.  
 2_feature: Annual/seasonal node occurrences, frequencies, and trend analysis based on SOM outputs.  
-3_extreme_events: Statistical analysis and visualization of annual/seasonal extreme precipitation and temperature events. Fig.4 and Figs.S5-S8.  
+3_extreme_events: Statistical analysis of annual/seasonal extreme precipitation and temperature events. Plot Fig.4 and Figs.S5-S8.  
 4_pattern_fig: Code for plotting Fig.2.  
 5_pattern_link: Code for plotting Figs.3 and 7.  
 6_lde_wwe_change_plot: Identify LDE and WWE, and plot Fig.5 and Fig.S9.  
